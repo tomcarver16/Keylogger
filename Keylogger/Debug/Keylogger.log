@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\tom carver\source\repos\keylogger\keylogger\main.cpp(316): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Keylogger.vcxproj -> C:\Users\Tom Carver\source\repos\Keylogger\Debug\Keylogger.exe
